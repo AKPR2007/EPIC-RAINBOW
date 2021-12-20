@@ -24,13 +24,13 @@ module.exports = {
 
       .setDescription(
 
-        `**Then what are you waiting for? Invite me today!** \n\n [Invite Link](https://discord.com/api/oauth2/authorize?client_id=860032273675321355&permissions=8&scope=bot)`
+        `**Then what are you waiting for? Invite me today!** \n\n [Invite Link](https://discord.com/api/oauth2/authorize?client_id=922365397515272222&permissions=8&scope=bot)`
 
       )
 
       .setURL(
 
-        `https://discord.com/api/oauth2/authorize?client_id=860032273675321355&permissions=8&scope=bot`
+        `https://discord.com/api/oauth2/authorize?client_id=922365397515272222&permissions=8&scope=bot`
 
       )
 
