@@ -102,7 +102,7 @@ client.on("ready", () => {
 
   console.log(`${client.user.username} ready!`);
 
-  client.user.setActivity(`Made by AK PR. ${PREFIX}help`, { type: "PLAYING" });
+  client.user.setActivity(`Created by AK PR. ${PREFIX}help`, { type: "PLAYING" });
 
 });
 
